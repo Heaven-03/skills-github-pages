@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
-Thank you
+title: Welcome to my blog ,Thank you
 ---
 
